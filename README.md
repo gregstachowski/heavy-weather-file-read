@@ -44,7 +44,11 @@ Copyright (C) G.S.Stachowski, 2003.08.29
 TBDW:
 -----
 --"no data" markers for all sensors
+
 -- first four bytes - automatic unit interpretation?
+
 -- bugs in temperature, pressure and time code? :
+
 Record 413: Indoor temp i s 23.5, read as 0.0.
+
 Record   3: Date in txt file is sensible (= rec. 2), read as 244.
